@@ -37,7 +37,7 @@ Unlike competitors who rely on clunky SDKs plugged into Unity, **we built our ow
     * *Trustless Wagering:* Funds are held in escrow during the match.
     * *Instant Settlement:* Winners are paid immediately.
 
-### **Architecture Diagram**
+### **Architecture Diagram** (High Level)
 ![Overtake Tech Stack](./tech-stack.png)
 
 ---
