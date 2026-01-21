@@ -18,6 +18,7 @@ Gen Z has financialized every hobby (sneakers, cards, clipping), yet despite **8
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/55dd2061-0eb1-4c18-a415-7015fd829204
 
 ---
 
