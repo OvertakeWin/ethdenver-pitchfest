@@ -50,7 +50,7 @@ Our team has deep experience in crypto, game engine development, and viral consu
 
 * **[Anish Lathker](https://www.linkedin.com/in/anish-lathker/) (CEO):** 2x Founder (Esports Startup Exit). Raised ~$500k for previous Prediction Market venture. ex Ripple, Director of Blockchain at UCI.
 * **[Kainoa Kanter](https://github.com/ThatOneCalculator) (CTO):** Scaled decentralized social platform to 30k users. Open Source Contributor to Coinbase, Microsoft, Ledger, SAFE, VSCode, Bun etc.
-* **[Drew Ridley](https://github.com/DrewRidley) (Founding Engineer):** Core Bevy Engine contributor. Built agentic AI cyber pipelines for 100k+ devices at Liberty Mutual.
+* **[Drew Ridley](https://github.com/DrewRidley) (Chief Architect (Game Engine + AI)):** Core Bevy Engine contributor. Built agentic AI cyber pipelines for 100k+ devices at Liberty Mutual.
 
 ---
 
