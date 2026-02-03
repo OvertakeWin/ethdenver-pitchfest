@@ -1,3 +1,5 @@
+Judges - please read the notice at the very bottom
+
 # Overtake Games
 **The AI-powered platform for 1v1 skill-based mobile gaming.**
 
